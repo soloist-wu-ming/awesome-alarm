@@ -453,7 +453,7 @@ onMounted(() => {
 									? '#FF453A'
 									: getStatus(card) === 'warning'
 										? '#FF9F0A'
-										: '#32D74B'
+										: '#4A9EFF'
 							"
 							:opacity="getStatus(card) === 'normal' ? '0.6' : '0.9'" />
 					</svg>
